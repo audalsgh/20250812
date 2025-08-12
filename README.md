@@ -24,6 +24,8 @@
 - maks-semantic.zip 파일 업로드하고, 필요 라이브러리 설치하는 첫번재 셀에서 오류가있지만 작동은 하므로 넘어간다.
 - 모든 전이학습이 그렇듯, 20 에포크 하는데에 25분 이상 소요되었다.
 
+### 첫 코드에서 설치와, Semantic Segmentation Masks zip파일을 업로드했기에 오류가 떠도 일단 남겨두었다.
+
 ```python
 # 0) 설치
 !pip -q install transformers accelerate evaluate opencv-python-headless pillow
