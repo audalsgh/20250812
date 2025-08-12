@@ -18,6 +18,4 @@
 5. create new version을 만들고, download dataset을 눌러서 Semantic Segmentation Masks 옵션으로 다운받기.
 <img width="1445" height="753" alt="image" src="https://github.com/user-attachments/assets/e1550101-168c-4d15-af3d-ebdd411d92d6" />
 
-
-
-   
+6. 이제 코랩으로 넘어가서, segformer 학습 코드 실습해보기. (gpt 이용)
