@@ -21,7 +21,7 @@
 6. 이제 코랩으로 넘어가서, segformer 전이학습 코드 실습해보기. (gpt 이용)
 <img width="1702" height="940" alt="image" src="https://github.com/user-attachments/assets/b51dcda2-1a31-45dd-8489-b26a432f0bfd" />
 
-- maks-semantic.zip 파일 업로드하고, 필요 라이브러리 설치하는 첫번재 셀에서 오류가있지만 작동은 하므로 넘어간다.
+- mask-semantic.zip 파일 업로드하고, 필요 라이브러리 설치하는 첫번재 셀에서 오류가있지만 작동은 하므로 넘어간다.
 - 모든 전이학습이 그렇듯, 20 에포크 하는데에 25분 이상 소요되었다.
 
 ### 첫 코드에서 설치와, Semantic Segmentation Masks zip파일을 업로드했기에 오류가 떠도 일단 남겨두었다.
