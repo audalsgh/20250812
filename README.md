@@ -21,7 +21,7 @@
 <img width="1445" height="753" alt="image" src="https://github.com/user-attachments/assets/e1550101-168c-4d15-af3d-ebdd411d92d6" />
 
 ## 6-1. 이제 코랩이나 runpod로 넘어가서, segformer 전이학습 코드 실습해보기. (gpt 이용)
-[colab에서 진행한 코드]()
+[colab에서 진행한 코드](0812_Roboflow_Segformer.ipynb)
 <img width="1702" height="940" alt="image" src="https://github.com/user-attachments/assets/b51dcda2-1a31-45dd-8489-b26a432f0bfd" />
 
 - mask-semantic.zip 파일 업로드하고, 필요 라이브러리 설치하는 첫번재 셀에서 오류가있지만 작동은 하므로 넘어간다.
