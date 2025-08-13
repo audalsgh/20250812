@@ -25,9 +25,12 @@
 - 모든 전이학습이 그렇듯, 20 에포크 하는데에 25분 이상 소요되었다.
 
 7. 좀더 속도가 빠른 runpod에서 전이학습까지 새로 마치고, 결과영상까지 얻어보기. (gpt 이용)
-<img width="2523" height="873" alt="image" src="https://github.com/user-attachments/assets/a4be7b62-7e65-446e-a6d5-a2dc65f23106" />
+<img width="2560" height="966" alt="image" src="https://github.com/user-attachments/assets/83a79e8f-7ad8-4637-93e5-86cb65633739" />
 
 - 코랩과 동일하게 mask_semantic.zip파일을 업로드하고, 10분정도 전이학습을 한 후, 결과영상까지 얻도록 실습 진행함.
+<img width="482" height="678" alt="image" src="https://github.com/user-attachments/assets/4e479003-26da-46c9-b006-a8e9498040b0" />
+
+- 깃허브에 사본저장을 위해 file -> download 를 눌러서 .ipynb 파일을 얻어서 백업했다.
 
 <img width="2389" height="1079" alt="image" src="https://github.com/user-attachments/assets/03ef58c0-6ff3-4e8c-ac00-8637a60fff7b" />
 
