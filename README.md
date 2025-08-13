@@ -1,7 +1,7 @@
 # 5인 1조로 로보플로우 + SegFormer 프로젝트
-
-## 로보플로우 내에서 한일
 [사용한 AI HUB 이미지 자료 링크](https://www.aihub.or.kr/aihubdata/data/view.do?pageIndex=1&currMenu=115&topMenu=100&srchOptnCnd=OPTNCND001&searchKeyword=%EB%8F%84%EB%A1%9C&srchDetailCnd=DETAILCND001&srchOrder=ORDER001&srchPagePer=20&srchDataRealmCode=REALM003&aihubDataSe=data&dataSetSn=71625)
+
+## 로보플로우 내에서 한일 5단계.
 
 1. 조원분들과 라벨링 작업. 800장 목표.
 <img width="1457" height="910" alt="image" src="https://github.com/user-attachments/assets/4b61ed5d-5f94-4db3-80f1-c8f17146a470" />
