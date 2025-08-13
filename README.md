@@ -30,7 +30,8 @@
 
 <img width="2560" height="966" alt="image" src="https://github.com/user-attachments/assets/83a79e8f-7ad8-4637-93e5-86cb65633739" />
 
-- 코랩과 동일하게 mask_semantic.zip파일을 업로드하고, 10분정도 전이학습을 한 후, 결과영상까지 얻도록 실습 진행함.
+- 코랩과 동일하게 mask_semantic.zip파일을 업로드하고, 전이학습에 10분정도 소요됨.
+- 도로주행 영상은 교수님의 영상을 업로드했고, 결과가 시각화된 영상까지 얻도록 함.
 <img width="482" height="678" alt="image" src="https://github.com/user-attachments/assets/4e479003-26da-46c9-b006-a8e9498040b0" />
 
 - 깃허브에 사본저장을 위해 file -> download 를 눌러서 .ipynb 파일을 얻어서 백업했다.
