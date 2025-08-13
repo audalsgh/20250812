@@ -32,6 +32,6 @@
 
 - 깃허브에 사본저장을 위해 file -> download 를 눌러서 .ipynb 파일을 얻어서 백업했다.
 
-<img width="2389" height="1079" alt="image" src="https://github.com/user-attachments/assets/03ef58c0-6ff3-4e8c-ac00-8637a60fff7b" />
+<img width="1197" height="602" alt="image" src="https://github.com/user-attachments/assets/506ced9e-6e46-4cfa-965f-d83d22382d1c" />
 
-**-> 불안불안하긴 하지만 점선, 실선, 횡단보도까지 표시해주고 있음. 파라미터 수정 or 색상을 구분하게 다시 학습하면 더 좋을듯.**
+**-> 불안불안하긴 하지만 점선, 실선, 중앙선을 표시해주고 있음. 파라미터 수정 or 더 잘 구분하게 다시 학습하면 더 좋을듯.**
