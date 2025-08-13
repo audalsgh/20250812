@@ -34,8 +34,8 @@
 - 도로주행 영상은 교수님의 영상을 업로드했고, 결과가 시각화된 영상까지 얻도록 함.
 <img width="482" height="678" alt="image" src="https://github.com/user-attachments/assets/4e479003-26da-46c9-b006-a8e9498040b0" />
 
-- 깃허브에 사본저장을 위해 file -> download 를 눌러서 .ipynb 파일을 얻어서 백업했다.
+- 깃허브에 코드 사본저장을 위해 file -> download 를 눌러서 .ipynb 파일을 얻어서 백업했다.
 
 <img width="1197" height="602" alt="image" src="https://github.com/user-attachments/assets/506ced9e-6e46-4cfa-965f-d83d22382d1c" />
 
-**-> 불안불안하긴 하지만 점선, 실선, 중앙선을 표시해주고 있음. 파라미터 수정 or 더 잘 구분하게 다시 학습하면 더 좋을듯.**
+**-> 불안불안하긴 하지만 점선, 실선, 중앙선을 표시해주고 있음. 파라미터 수정 or 횡단보도 가중치만 증가시켜서 다시하면 더 좋을듯.**
