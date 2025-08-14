@@ -8,7 +8,7 @@
 
 ## 로보플로우 내에서 한 일 5단계.
 다운받은 모델파일, zip파일은 구글 드라이브에 백업.<br>
-[구글 드라이브 링크](https://drive.google.com/drive/u/1/folders/116VKrgoh3fVBCaZIOt_Q4APXTUCF-8jQ)  [안되면 여기 링크로](https://drive.google.com/drive/folders/116VKrgoh3fVBCaZIOt_Q4APXTUCF-8jQ?usp=sharing)
+[구글 드라이브 링크](https://drive.google.com/drive/u/1/folders/116VKrgoh3fVBCaZIOt_Q4APXTUCF-8jQ)<br>[안되면 여기 링크로](https://drive.google.com/drive/folders/116VKrgoh3fVBCaZIOt_Q4APXTUCF-8jQ?usp=sharing)
 
 1. 조원분들과 라벨링 작업. 800장 목표.
 <img width="1457" height="910" alt="image" src="https://github.com/user-attachments/assets/4b61ed5d-5f94-4db3-80f1-c8f17146a470" />
