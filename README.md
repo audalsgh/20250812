@@ -1,7 +1,7 @@
 # 0812~0814 3일간, 5인 1조로 로보플로우 + SegFormer 프로젝트 후, 교육 끝!
 [사용한 AI HUB 이미지 자료 링크](https://www.aihub.or.kr/aihubdata/data/view.do?pageIndex=1&currMenu=115&topMenu=100&srchOptnCnd=OPTNCND001&searchKeyword=%EB%8F%84%EB%A1%9C&srchDetailCnd=DETAILCND001&srchOrder=ORDER001&srchPagePer=20&srchDataRealmCode=REALM003&aihubDataSe=data&dataSetSn=71625)
 
-(마지막날에 다시 런파드에서 횡단보도 가중치 넣고 시도했으나 오류가 너무 많아 시간내에 하는건 포기)
+(마지막날에 다시 런파드에서 횡단보도 가중치 넣고 시도했으나 오류가 너무 많아 시간내에 하는건 포기)<br>
 [엔비디아 딥러닝 교육 모음](https://www.nvidia.com/en-us/training/find-training/?query=10)<br>
 **->지금까지 2~3개 정도 교육을 소개해주셨지만, 유료에서 무료로 바뀐 교육들도 존재하니 들어가볼것!**
 
