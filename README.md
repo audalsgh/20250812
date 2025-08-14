@@ -1,4 +1,4 @@
-# 0812~0814 3일간, 5인 1조로 로보플로우 + SegFormer 프로젝트
+# 0812~0814 3일간, 5인 1조로 로보플로우 + SegFormer 프로젝트 후, 교육 끝!
 [사용한 AI HUB 이미지 자료 링크](https://www.aihub.or.kr/aihubdata/data/view.do?pageIndex=1&currMenu=115&topMenu=100&srchOptnCnd=OPTNCND001&searchKeyword=%EB%8F%84%EB%A1%9C&srchDetailCnd=DETAILCND001&srchOrder=ORDER001&srchPagePer=20&srchDataRealmCode=REALM003&aihubDataSe=data&dataSetSn=71625)
 
 (마지막날에 횡단보도 가중치 넣고 다시 런파드에서 해보기)
