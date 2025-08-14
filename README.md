@@ -7,6 +7,8 @@
 **->지금까지 2~3개 정도 교육을 소개해주셨지만, 유료에서 무료로 바뀐 교육들도 존재하니 들어가볼것!**
 
 ## 로보플로우 내에서 한 일 5단계.
+다운받은 모델파일, zip파일은 구글 드라이브에 백업.<br>
+[구글 드라이브 링크](https://drive.google.com/drive/u/1/folders/116VKrgoh3fVBCaZIOt_Q4APXTUCF-8jQ)
 
 1. 조원분들과 라벨링 작업. 800장 목표.
 <img width="1457" height="910" alt="image" src="https://github.com/user-attachments/assets/4b61ed5d-5f94-4db3-80f1-c8f17146a470" />
