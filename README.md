@@ -2,6 +2,8 @@
 [사용한 AI HUB 이미지 자료 링크](https://www.aihub.or.kr/aihubdata/data/view.do?pageIndex=1&currMenu=115&topMenu=100&srchOptnCnd=OPTNCND001&searchKeyword=%EB%8F%84%EB%A1%9C&srchDetailCnd=DETAILCND001&srchOrder=ORDER001&srchPagePer=20&srchDataRealmCode=REALM003&aihubDataSe=data&dataSetSn=71625)
 
 마지막날에 다시 런파드에서 횡단보도 가중치 넣고 시도했으나 오류가 너무 많아 시간내에 하는건 포기<br>
+
+## 8월18일, 마지막 발표 정리
 로보플로우 내에서 인공지능 모델 학습시 보이는 그래프를, 경진대회 같은곳에서는 발표에 넣는걸 중요시 여김.<br>
 3개의 조가 있었고, 각 조의 발표자료는 아래 링크에 백업.<br>
 [ppt용량이 커서 링크에 접속한뒤 raw 다운로드로 백업](https://github.com/audalsgh/20250812-14/tree/master)
