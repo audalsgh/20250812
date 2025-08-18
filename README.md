@@ -3,7 +3,12 @@
 
 마지막날에 다시 런파드에서 횡단보도 가중치 넣고 시도했으나 오류가 너무 많아 시간내에 하는건 포기<br>
 로보플로우 내에서 인공지능 모델 학습시 보이는 그래프를, 경진대회 같은곳에서는 발표에 넣는걸 중요시 여김.<br>
+3개의 조가 있었고, 각 조의 발표자료는 아래 링크에 백업.<br>
 [ppt용량이 커서 링크에 접속한뒤 raw 다운로드로 백업](https://github.com/audalsgh/20250812-14/tree/master)
+
+40일간의 교육 내용을 정리한 5분짜리 개인발표 ppt
+
+[자율주행을위한 AI코딩 교육 개인발표 명민호.pptx](https://github.com/user-attachments/files/21826461/AI.pptx)
 
 [엔비디아 딥러닝 교육 모음](https://www.nvidia.com/en-us/training/find-training/?query=10)<br>
 **->지금까지 2~3개 정도 교육을 소개해주셨지만, 유료에서 무료로 바뀐 교육들도 존재하니 들어가볼것!**
