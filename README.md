@@ -7,7 +7,6 @@
 [ppt용량이 커서 링크에 접속한뒤 raw 다운로드로 백업](https://github.com/audalsgh/20250812-14/tree/master)
 
 40일간의 교육 내용을 정리한 5분짜리 개인발표 ppt
-
 [자율주행을위한 AI코딩 교육 개인발표 명민호.pptx](https://github.com/user-attachments/files/21826461/AI.pptx)
 
 [엔비디아 딥러닝 교육 모음](https://www.nvidia.com/en-us/training/find-training/?query=10)<br>
